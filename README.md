@@ -26,8 +26,19 @@ Aspirante a desenvolvedor full-stack, sempre tive interesse pela área de desenv
 ## Contato
 
 - 🏠 - Goiânia, Goiás, Brasil
-- 🙋‍♂️ - Matheus Junio Ribeiro da Silva - 24 anos
+- 🙋‍♂️ - Matheus Junio Ribeiro da Silva - 25 anos
 - 📧 - matheus.junio159@gmail.com
+
+## Objetivos (2023)
+
+- Foco em Front-End
+  - JS ()
+  - Angular () Desafio: Finalizando o OhWaiter, trabalho da faculdade.
+  - React () Desafio: Criar um site de diário.
+- Noção de Mobile
+  - React Native () Desafio: Transforma o site de diário em um app mobile.
+  - Flutter (): Controlador de estacionamento
+
 
 ## Piada
 
